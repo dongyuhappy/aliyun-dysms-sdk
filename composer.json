@@ -1,5 +1,5 @@
 {
-    "name": "amzing/aliyun-dysms",
+    "name": "amzing/dysms",
     "description": "Aliyun SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk" ],
     "type": "library",
